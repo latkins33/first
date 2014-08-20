@@ -5,6 +5,7 @@ Body { background-color: Khaki;
 
 img { width:20%;
       float:left;
+      margin: 10px;
 }
 
 h1 { color: Green;
