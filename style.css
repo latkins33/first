@@ -1,12 +1,13 @@
 h1 { color: Green;
+    font-size:424%;
+}
+    
     
 }
 Body { background-color: Khaki;
 
 }
 
-img { width: 25%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+img { width:20%;
+        float: left;
 }
