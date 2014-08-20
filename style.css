@@ -1,9 +1,4 @@
-h1 { color: Green;
-    font-size:100%;
-}
-    
-    
-}
+
 Body { background-color: Khaki;
 
 }
@@ -11,3 +6,8 @@ Body { background-color: Khaki;
 img { width:20%;
         float: left;
 }
+
+h1 { color: Green;
+    font-size:425%;
+}
+    
