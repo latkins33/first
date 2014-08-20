@@ -11,6 +11,7 @@ img { width:20%;
 
 h1 { color: Green;
     font-size:425%;
+    font-style: Italic;
 }
 
 #content {
@@ -26,5 +27,9 @@ h1 { color: Green;
 }
 
 h2,h3 { text-decoration:underline;
+        border-style: double;
+		border-color:DarkGoldenRod;
+		background-color: Black;
+		
 
 }
