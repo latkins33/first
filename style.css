@@ -24,3 +24,7 @@ h1 { color: Green;
 #clear {clear:both;
 
 }
+
+h2,h3 { text-decoration:underline;
+
+}
